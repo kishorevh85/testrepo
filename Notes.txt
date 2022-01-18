@@ -1,0 +1,46 @@
+processing of using data to understand the world
+validating your hypothisis / model using data.
+unhiding the knowledge/ unrevealing the inference hiding behind data.
+Building a story which could bring some valuable insights to the organization using the data collected.
+The technique of extracting data from various sources structured / unstructured for the purpose of mining and getting value out of it.
+Study of data.
+Data + science, 
+	where the scientist is trying to explore the data to get answers to the questions.
+
+Data science is the field of exploring, manipulating and analyzing the data and using the data to answer question or make recommendations.
+
+Data science can help organization to understand their environment, analyze existing issues, reveal previously hidden opportunities.
+Data scientist can analyze the data to add to the knowledge of the organization.
+Organizations have specific questions which need to get answered. Data scientists are group of curious people who asks questions to clarify
+the business need.
+What is the data which is needed for answering the question. Where will we get the data. Is that structured/unstructured
+to explore and find answers to the questions.
+Using multiple models to explore the data reveals patterns, archetypes and outliers. Sometimes it is inline with what org. expects.
+But sometimes it is completely a new knowledge, leading the organization to a new approach.
+Data scientists uses the data and powerful visualization tools to express the insights and its value that org. can benifit out of it.
+
+Report 
+	Structure of the report - Brief report / Long report (Based on the purpose of report and the audiance who uses the report - general public/media or, industry experts or researchers).
+		Brief report - runs for few pages say 5, mainly contains the summary of key findings. 
+		Detailed report - incrementally builds the argument, details on other relevant works, research methodology, data sources, intermediate findings along with main result.
+		
+Structure of report:-
+1) The Cover page
+Must have this regardless of brief/detailed report.	Title of the report, Author names, their affiliations, contacts, the name of institutional publisher and the date of publication.
+2) Table of contents
+Main headings, list of tables, list of figures.
+3) Abstract or Executive summary
+For brief report, around 2-3 paragraph explaining about the arguments. For detailed one which runs > 100 pagaes, this could be larger.
+4) Introductory section
+5) Literature Review section
+Review of available relevant research on the subject matter. Highlight the gaps in existing knowledge, where your analysis will try to fill, then formally introduce your research questions and hypothesis.
+6) Methodology section
+About the research methods and data sources used for the analysis. About the methods used for collection of any new data.
+7) Results section
+Present the emperical findings.	Start with Descriptive statistics and illustrative graphics , move toward formally testing your hypothesis.	Depending upon the nature of models and data use appropriate models and techniques (regression, categorical, time-series..)	Business reports mostly rely on illustrative graphics to summarize the results rather than statistical details.
+8) Discussion section
+Craft your main arguments based on the result you have presented. Use the story telling narration based on the numerical results to communicate the thesis to readers. Bring the readers focus to research question and the gap in existing knowledge and how your findings fill in those gaps.
+9) Conclusion section
+Generalize your findings, take marketing approach to promote those. Identify the future possible developments in research and applications that could result from yours.
+10) References section
+11) Acknowledgement section
